@@ -2,5 +2,5 @@ Free Maxpatches by Lewis Kennedy
 
 
 
-feel free to break create and learn the wonders of Cycling'74's Max/MSP
+feel free to break then create with these patches on your journey to learn the wonders of Cycling'74's Max/MSP
 
