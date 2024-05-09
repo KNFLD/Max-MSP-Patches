@@ -1,4 +1,4 @@
-Free Maxpatches by Lewis Kennedy 
+Free Max/MSP patches by Lewis Kennedy 
 
 
 
